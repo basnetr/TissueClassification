@@ -1,4 +1,4 @@
-1. "_database" should contain Training (420) and Testing (180) tissue images of size 100x100 for each tissue class.
+1. "_database" should contain Training and Testing tissue images of size 100x100 for each tissue class.
 Database can be downloaded from: http://biscar.univalle.edu.co/?page_id=1003
 
 2. "_libsvm" contains LIBSVM files that can be downloaded from: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
