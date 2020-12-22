@@ -1,0 +1,1 @@
+Has files of 100x100 px named as (X).jpg belonging to the class - Folder Name, X = File Number (1 to 420)
